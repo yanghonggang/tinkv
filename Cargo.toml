@@ -6,10 +6,6 @@ path = 'examples/basic.rs'
 name = 'hello'
 path = 'examples/hello.rs'
 
-[[bench]]
-name = 'store_benchmark'
-harness = false
-
 [package]
 name = 'tinkv'
 version = '0.10.0'
